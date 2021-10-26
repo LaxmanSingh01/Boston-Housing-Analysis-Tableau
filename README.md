@@ -1,3 +1,3 @@
 # Boston-Housing-Analysis
 
-Demo Link : https://prod-apnortheast-a.online.tableau.com/t/laxmansalesinsight/views/BostonHousingAnalysis/Dashboard1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+Demo Link :https://public.tableau.com/app/profile/laxman.singh2933/viz/BostonHousingAnalysis_16352671815260/Dashboard1?publish=yes
